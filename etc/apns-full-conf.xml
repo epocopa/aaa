@@ -30495,7 +30495,7 @@
       roaming_protocol="IP"
   />
 
-  <apn carrier="spモード"
+  <apn carrier="docomo"
       mcc="440"
       mnc="10"
       apn="spmode.ne.jp"
